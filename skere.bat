@@ -1,36 +1,3 @@
-﻿::[Bat To Exe Converter]
-::
-::YAwzoRdxOk+EWAnk
-::fBw5plQjdG8=
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSjk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpCI=
-::egkzugNsPRvcWATEpCI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJgZksaHErTXA==
-::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbCXqZg==
-::ZQ05rAF9IAHYFVzEqQIXDS8UfiGpCCuYKYx8
-::eg0/rx1wNQPfEVWB+kM9LVsJDDCLMmSJDadcrqjv/KSAqkIOQPE3Nozdug==
-::fBEirQZwNQPfEVWB+kM9LVsJDDCLMmSJDadcrqjv/KSAqkIOQPE3Nozdug==
-::cRolqwZ3JBvQF1fEqQIEIRVbfw+QfC36EqZS7+D0/P6UqgMeUoI=
-::dhA7uBVwLU+EWG2N+k0DIwkUCkSWLyW9DroP/PvzoemBwg==
-::YQ03rBFzNR3SWATEwEs+JyhfXkTEfH+pSLIU5/vv/OLJoUt9
-::dhAmsQZ3MwfNWATEwEs+JyhfXkTEfH+pSLIU5/vv/OLJoUt9
-::ZQ0/vhVqMQ3MEVWAtB9wHBJaQzeJLiv8RqEPpu/z4PmTsUVTV+Rf
-::Zg8zqx1/OA3MEVWAtB9wHBJaQzeJLiv8RqEPpu/z4PmTsUVTV+Rf
-::dhA7pRFwIByZRRmw/Uw/GxBGDELCKHj0Ab0T+/zo56SEpC0=
-::Zh4grVQjdCyDJGyX8VAjFCh3YjimOXixEroM1Nv4/eOXtkQTU949eZvY0oieJfIA41bwcJgu33tmteg+CRxdehu/fUExsWsi
-::YB416Ek+ZG8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 echo off
 cls
 :: EMPIEZA LA MAGIA (SCRIPTS PARA PERSISTENCIA)
